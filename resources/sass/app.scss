@@ -1,0 +1,30 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//estilos mios
+//todos los formularios
+form {
+    width: 75%;
+    margin: 0 auto;
+}
+//estilos para el serch
+.botonSerch {
+    position: relative;
+    left: 20rem;
+    bottom: 2.4rem;
+
+}
+//boton agregar
+.agregar{
+    position: relative;
+    left: 42rem;
+    bottom: 3.3rem;
+}
+
+
